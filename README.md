@@ -1,2 +1,2 @@
 # econ42
-Totorial scripts for Econ 42
+Tutorial scripts for Econ 42
